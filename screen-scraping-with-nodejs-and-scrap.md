@@ -1,5 +1,6 @@
+#Screen Scraping with Node.js & Scrap
+
 Date: 2013-05-01
-Title: Screen Scraping with Node.js & Scrap
 
 Screen scraping is the practice of scanning (*scraping*) a public URL's markup (*screen*) for the purpose of extracting or manipulating the data contained within.
 

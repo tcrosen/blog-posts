@@ -1,4 +1,5 @@
-Title: Baseball Is Awesome
+#Baseball Is Awesome
+
 Date: 2013-05-28 09:58 
 
 Baseball is awesome because it's the only sport where [someone else can subjectively determine your stats](http://en.wikipedia.org/wiki/Official_scorer#Judgment_calls).  

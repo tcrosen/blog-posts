@@ -1,5 +1,6 @@
+#Overriding Jasmine Spy Returns in Nested Describe Blocks
+
 Date: 2013-06-26
-Title: Overriding Jasmine Spy Returns in Nested Describe Blocks
 
 Let's say you have the following Jasmine unit tests for a trivial `personService`:
 

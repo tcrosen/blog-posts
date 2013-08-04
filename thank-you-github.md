@@ -1,4 +1,5 @@
-Title: Thank You GitHub
+#Thank You GitHub
+
 Date: 2013-07-09
 
 And all other OSS community leaders.
