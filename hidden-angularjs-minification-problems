@@ -1,0 +1,29 @@
+# Honda Sales Tablet
+
+An AngularJS application powered by .NET WebAPI & MVC on the backend.
+
+### Client Configuration
+
+1. Install [Node.js](http://nodejs.org/) with NPM
+2. Install [Git](https://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git) and make sure it is available from your PATH
+3. Install [Grunt](http://gruntjs.com/) globally from the command line: `npm install -g grunt-cli`
+4. Install [Bower](http://bower.io/) globally from the command line: `npm install -g bower`
+5. Run `npm install` in root folder (where package.json is located) to install the required server packages
+6. Run `bower install` in the same folder to install required client packages (jQuery, Angular, etc.)
+
+### Building
+
+`grunt build`
+
+- Minifies all JS, CSS & image files 
+- Copies them to the `dist/` folder for the application to access.
+
+### Running Client Tests
+
+`grunt test`
+
+### App Structure
+
+```
+	
+```
